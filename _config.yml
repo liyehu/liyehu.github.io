@@ -105,3 +105,7 @@ deploy:
   type: 'git'
   repo: git@github.com:liyehu/liyehu.github.io.git
   branch: master
+
+mermad:
+  enable: true
+  theme: default
