@@ -9,3 +9,9 @@ graph TD
     A-->B;
     A-->C;
 ```
+```c
+#include <stdio.h>
+int mian(){
+    return 0;
+}
+```
