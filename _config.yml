@@ -109,4 +109,4 @@ deploy:
 mermad:
   enable: true
   version: "7.1.2"
-  options:
+  options: true
