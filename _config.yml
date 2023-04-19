@@ -108,4 +108,5 @@ deploy:
 
 mermad:
   enable: true
-  theme: default
+  version: "7.1.2"
+  options:
