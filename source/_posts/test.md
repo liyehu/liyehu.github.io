@@ -8,6 +8,7 @@ tags:
 graph TD
     A-->B;
     A-->C;
+    A-->D;
 ```
 ```c
 #include <stdio.h>
