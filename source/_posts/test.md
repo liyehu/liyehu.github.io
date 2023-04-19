@@ -5,6 +5,7 @@ tags:
 ---
 # 测试
 ```mermaid
-flowchat
-st=>start:Start
+graph TD
+    A-->B;
+    A-->C;
 ```
