@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>平衡小车</title>
+    <url>/2023/04/20/car/</url>
+    <content><![CDATA[<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>y</mi><mi>a</mi></msub></mrow><annotation encoding="application/x-tex">y_a</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">a</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span><br>
+afsafs</p>
+<span id="more"></span>
+<p>asfsaf</p>
+]]></content>
+      <categories>
+        <category>project</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>introduction</title>
+    <url>/2023/04/20/introduction/</url>
+    <content><![CDATA[<h1 id="introduction">introduction</h1>
+<hr>
+]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2023/04/18/test/</url>
+    <content><![CDATA[<h1 id="测试">测试</h1>
+<pre class="mermaid">graph TD
+    A-->B;
+    A-->C;
+    A-->D;</pre>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="type">int</span> <span class="title function_">mian</span><span class="params">()</span>&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
+</search>
