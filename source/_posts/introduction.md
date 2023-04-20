@@ -5,4 +5,3 @@ tags:
 ---
 # introduction
 ---
-[平衡小车](../resouces)
