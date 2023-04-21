@@ -1,6 +1,8 @@
 ---
 title: {{ title }}
 date: {{ date }}
-notsow: true
-tags:
+tags: home
+categories
+top: 
+hidden: 
 ---
