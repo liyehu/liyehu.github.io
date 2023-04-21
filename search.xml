@@ -11,9 +11,6 @@ afsafs</p>
       <categories>
         <category>project</category>
       </categories>
-      <tags>
-        <tag>home</tag>
-      </tags>
   </entry>
   <entry>
     <title>introduction</title>
@@ -21,9 +18,6 @@ afsafs</p>
     <content><![CDATA[<h1 id="introduction">introduction</h1>
 <hr>
 ]]></content>
-      <tags>
-        <tag>home</tag>
-      </tags>
   </entry>
   <entry>
     <title>test</title>
