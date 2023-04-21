@@ -149,4 +149,5 @@ index2_generator:
   order_by: -date
   include:
     - tag home
+    - tag paper
   exclude:
