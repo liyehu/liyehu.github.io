@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false
 relative_link: false
 future: true
 highlight:
@@ -134,3 +134,19 @@ search:
   field: post
   content: true
   format: html
+
+
+
+#hexo-hide-posts
+hide_posts:
+  enable: true
+  filter: hidden
+  public_generators: []
+  noindex: true
+
+index2_generator:
+  per_page: 10
+  order_by: -date
+  include:
+  exclude:
+    - tag hide
