@@ -148,5 +148,5 @@ index2_generator:
   per_page: 10
   order_by: -date
   include:
+    - tag house
   exclude:
-    - tag hide
