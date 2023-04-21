@@ -146,8 +146,7 @@ hide_posts:
 
 index2_generator:
   per_page: 10
-  order_by: -date
+  order_by: 
+    top: -1
   include:
-    - tag home
-    - tag paper
   exclude:
