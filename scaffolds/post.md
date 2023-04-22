@@ -1,8 +1,11 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags: home
-categories
+tags: 
+categories:   # programL/project/subjects/technology
 top: 
 hidden: 
 ---
+<!-- more -->
+{% raw %}
+{% endraw %}
