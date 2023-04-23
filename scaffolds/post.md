@@ -7,5 +7,3 @@ top:
 hidden: 
 ---
 <!-- more -->
-{% raw %}
-{% endraw %}
