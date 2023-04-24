@@ -6,7 +6,7 @@ type: home
 {% tabs Tab one %}
 <!-- tab doing@battery-2 -->
 {% post_link project/平衡小车/平衡小车1 平衡小车 %}
-{% post_link technology/AI/统计学习方法/统计学习方法概论 统计学习方法 %}
+{% post_link subjects/AI/统计学习方法/统计学习方法概论 统计学习方法 %}
 <!-- endtab -->
 <!-- tab to do@battery-empty -->
 PEE
