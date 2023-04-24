@@ -5,7 +5,7 @@ type: home
 ---
 {% tabs Tab one %}
 <!-- tab doing@battery-2 -->
-{% post_link project/平衡小车/平衡小车 平衡小车 %}
+{% post_link project/平衡小车/平衡小车1 平衡小车 %}
 <!-- endtab -->
 <!-- tab to do@battery-empty -->
 PEE
