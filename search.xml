@@ -3024,6 +3024,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
       </tags>
   </entry>
   <entry>
+    <title>appendix</title>
+    <url>/2023/04/26/subjects/AI/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/appendix/</url>
+    <content><![CDATA[<p> </p>
+<span id="more"></span>
+<h2 id="1-1-heoffding-inequality">1.1 heoffding inequality</h2>
+]]></content>
+  </entry>
+  <entry>
     <title>感知机</title>
     <url>/2023/04/24/subjects/AI/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/%E6%84%9F%E7%9F%A5%E6%9C%BA/</url>
     <content><![CDATA[<p> </p>
@@ -3306,6 +3314,10 @@ s-87.3,378.7,-272.6,1166c-185.3,787.3,-279.3,1182.3,-282,1185
 c-2,6,-10,9,-24,9
 c-8,0,-12,-0.7,-12,-2z M1001 80
 h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.788405em;"><span></span></span></span></span></span></span></span></span></span></p>
+<p>不等式左端是泛化误差，右端即为泛化误差上界，第一项是训练误差，第二项是N的单调递减函数，当N趋于无穷时，函数趋于0；<br>
+同时他也是logd阶的函数，假设空间<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="script">F</mi></mrow><annotation encoding="application/x-tex">\mathcal{F}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord"><span class="mord mathcal" style="margin-right:0.09931em;">F</span></span></span></span></span>包含的函数越多，其值越大。</p>
+<p><strong>证明</strong>：<br>
+在证明中要用到heoffding不等式，（详情见<a href="/2023/04/26/subjects/AI/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/appendix/" title="appendix">附录</a>）</p>
 ]]></content>
       <categories>
         <category>subjects</category>
