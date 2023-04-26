@@ -1,0 +1,6 @@
+hexo-theme-next
+hexo-math
+hexo-renderer-markdown-it-katex
+hexo-filter-mermaid-diagrams
+hexo-asset-img
+hexo-deployer-git
