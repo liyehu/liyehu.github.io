@@ -5,9 +5,11 @@ tags: 统计学习方法
 categories:
     - subjects
     - AI
-top:
+top: 1
 hidden:
 ---
 &ensp;
 <!-- more -->
 ## 1.1 heoffding inequality
+先介绍一个引理马尔可夫不等式
+### 马尔可夫不等式
