@@ -150,7 +150,7 @@ id1[取值]-->id2[相乘]-->id3[转换]</pre>
   </entry>
   <entry>
     <title>二次型</title>
-    <url>/2023/04/30/project/PEE/PEE-LA/%E4%BA%8C%E6%AC%A1%E5%9E%8B/</url>
+    <url>/2023/05/02/project/PEE/PEE-LA/%E4%BA%8C%E6%AC%A1%E5%9E%8B/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="二次型">二次型</h1>
@@ -221,7 +221,7 @@ id1[取值]-->id2[相乘]-->id3[转换]</pre>
   </entry>
   <entry>
     <title>向量组的线性关系与秩</title>
-    <url>/2023/04/30/project/PEE/PEE-LA/%E5%90%91%E9%87%8F%E7%BB%84%E7%9A%84%E7%BA%BF%E6%80%A7%E5%85%B3%E7%B3%BB%E4%B8%8E%E7%A7%A9/</url>
+    <url>/2023/05/02/project/PEE/PEE-LA/%E5%90%91%E9%87%8F%E7%BB%84%E7%9A%84%E7%BA%BF%E6%80%A7%E5%85%B3%E7%B3%BB%E4%B8%8E%E7%A7%A9/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="向量组的线性关系与秩">向量组的线性关系与秩</h1>
@@ -319,7 +319,7 @@ c_1\alpha_1+c_2\alpha_2+\cdots+c_s\alpha_s=0
   </entry>
   <entry>
     <title>特征向量与特征值，相似，对角化</title>
-    <url>/2023/04/30/project/PEE/PEE-LA/%E7%89%B9%E5%BE%81%E5%90%91%E9%87%8F%E4%B8%8E%E7%89%B9%E5%BE%81%E5%80%BC%EF%BC%8C%E7%9B%B8%E4%BC%BC%EF%BC%8C%E5%AF%B9%E8%A7%92%E5%8C%96/</url>
+    <url>/2023/05/02/project/PEE/PEE-LA/%E7%89%B9%E5%BE%81%E5%90%91%E9%87%8F%E4%B8%8E%E7%89%B9%E5%BE%81%E5%80%BC%EF%BC%8C%E7%9B%B8%E4%BC%BC%EF%BC%8C%E5%AF%B9%E8%A7%92%E5%8C%96/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="特征向量与特征值-相似-对角化">特征向量与特征值，相似，对角化</h1>
@@ -378,7 +378,7 @@ f(A)\sim f(B),并且P^{-1}f(A)P=f(B)
   </entry>
   <entry>
     <title>矩阵</title>
-    <url>/2023/04/30/project/PEE/PEE-LA/%E7%9F%A9%E9%98%B5/</url>
+    <url>/2023/05/02/project/PEE/PEE-LA/%E7%9F%A9%E9%98%B5/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="矩阵">矩阵</h1>
@@ -467,7 +467,7 @@ A = (\alpha ,\beta,\gamma),B=(\alpha+2\beta-\gamma,
   </entry>
   <entry>
     <title>线性方程组</title>
-    <url>/2023/04/30/project/PEE/PEE-LA/%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B%E7%BB%84/</url>
+    <url>/2023/05/02/project/PEE/PEE-LA/%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B%E7%BB%84/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="线性方程组">线性方程组</h1>
@@ -515,7 +515,7 @@ A = (\alpha ,\beta,\gamma),B=(\alpha+2\beta-\gamma,
   </entry>
   <entry>
     <title>行列式</title>
-    <url>/2023/04/30/project/PEE/PEE-LA/%E8%A1%8C%E5%88%97%E5%BC%8F/</url>
+    <url>/2023/05/02/project/PEE/PEE-LA/%E8%A1%8C%E5%88%97%E5%BC%8F/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="行列式">行列式</h1>
@@ -569,7 +569,7 @@ a_{1j_1}a_{2j_2}\cdots a_{nj_n}
   </entry>
   <entry>
     <title>参数估计与假设检验</title>
-    <url>/2023/04/30/project/PEE/PEE-PM/%E5%8F%82%E6%95%B0%E4%BC%B0%E8%AE%A1%E4%B8%8E%E5%81%87%E8%AE%BE%E6%A3%80%E9%AA%8C/</url>
+    <url>/2023/05/02/project/PEE/PEE-PM/%E5%8F%82%E6%95%B0%E4%BC%B0%E8%AE%A1%E4%B8%8E%E5%81%87%E8%AE%BE%E6%A3%80%E9%AA%8C/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="参数估计与假设检验">参数估计与假设检验</h1>
@@ -665,7 +665,7 @@ a_{1j_1}a_{2j_2}\cdots a_{nj_n}
   </entry>
   <entry>
     <title>二维随机变量联合分布及边缘分布</title>
-    <url>/2023/04/30/project/PEE/PEE-PM/%E5%A4%9A%E7%BB%B4%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/</url>
+    <url>/2023/05/02/project/PEE/PEE-PM/%E5%A4%9A%E7%BB%B4%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="二维随机变量联合分布及边缘分布">二维随机变量联合分布及边缘分布</h1>
@@ -738,7 +738,7 @@ P\{U=u_i\}=\iint\limits_{D}f(x,y)dxdy
   </entry>
   <entry>
     <title>大数定律和中心极限定理</title>
-    <url>/2023/04/30/project/PEE/PEE-PM/%E5%A4%A7%E6%95%B0%E5%AE%9A%E5%BE%8B%E5%92%8C%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86/</url>
+    <url>/2023/05/02/project/PEE/PEE-PM/%E5%A4%A7%E6%95%B0%E5%AE%9A%E5%BE%8B%E5%92%8C%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="大数定律和中心极限定理">大数定律和中心极限定理</h1>
@@ -821,7 +821,7 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
   </entry>
   <entry>
     <title>数理统计的基本概念</title>
-    <url>/2023/04/30/project/PEE/PEE-PM/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</url>
+    <url>/2023/05/02/project/PEE/PEE-PM/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="数理统计的基本概念">数理统计的基本概念</h1>
@@ -970,7 +970,7 @@ F(n_1-1,n_2-1)
   </entry>
   <entry>
     <title>随机事件和概率</title>
-    <url>/2023/04/30/project/PEE/PEE-PM/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%92%8C%E6%A6%82%E7%8E%87/</url>
+    <url>/2023/05/02/project/PEE/PEE-PM/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%92%8C%E6%A6%82%E7%8E%87/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="随机事件和概率">随机事件和概率</h1>
@@ -1091,7 +1091,7 @@ P(A_1A_2\cdots A_n)=P(A_1)P(A_2|A_1)P(A_3|A_1A_2)\cdots P(A_n|A_1A_2\cdots A_{n-
   </entry>
   <entry>
     <title>随机变量及其分布</title>
-    <url>/2023/04/30/project/PEE/PEE-PM/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/</url>
+    <url>/2023/05/02/project/PEE/PEE-PM/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="随机变量及其分布">随机变量及其分布</h1>
@@ -1199,7 +1199,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
   </entry>
   <entry>
     <title>随机变量的数字特征</title>
-    <url>/2023/04/30/project/PEE/PEE-PM/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81/</url>
+    <url>/2023/05/02/project/PEE/PEE-PM/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="随机变量的数字特征">随机变量的数字特征</h1>
@@ -1284,7 +1284,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
   </entry>
   <entry>
     <title>一元函数的泰勒公式</title>
-    <url>/2023/04/30/project/PEE/PEE-analysis/%E4%B8%80%E5%85%83%E5%87%BD%E6%95%B0%E7%9A%84%E6%B3%B0%E5%8B%92%E5%85%AC%E5%BC%8F/</url>
+    <url>/2023/05/02/project/PEE/PEE-analysis/%E4%B8%80%E5%85%83%E5%87%BD%E6%95%B0%E7%9A%84%E6%B3%B0%E5%8B%92%E5%85%AC%E5%BC%8F/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="一元函数的泰勒公式">一元函数的泰勒公式</h1>
@@ -1322,7 +1322,7 @@ R_n(x)=\frac{1}{(n+1)!}f^{(n+1)}(\xi)(x-x_0)^{n+1}，
   </entry>
   <entry>
     <title>一元函数积分概念、计算及应用</title>
-    <url>/2023/04/30/project/PEE/PEE-analysis/%E4%B8%80%E5%85%83%E5%87%BD%E6%95%B0%E7%A7%AF%E5%88%86%E6%A6%82%E5%BF%B5%E3%80%81%E8%AE%A1%E7%AE%97%E5%8F%8A%E5%BA%94%E7%94%A8/</url>
+    <url>/2023/05/02/project/PEE/PEE-analysis/%E4%B8%80%E5%85%83%E5%87%BD%E6%95%B0%E7%A7%AF%E5%88%86%E6%A6%82%E5%BF%B5%E3%80%81%E8%AE%A1%E7%AE%97%E5%8F%8A%E5%BA%94%E7%94%A8/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="一元函数积分概念-计算及应用">一元函数积分概念、计算及应用</h1>
@@ -1655,7 +1655,7 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
   </entry>
   <entry>
     <title>一元微分导数</title>
-    <url>/2023/04/30/project/PEE/PEE-analysis/%E4%B8%80%E5%85%83%E5%BE%AE%E5%88%86%E5%AF%BC%E6%95%B0/</url>
+    <url>/2023/05/02/project/PEE/PEE-analysis/%E4%B8%80%E5%85%83%E5%BE%AE%E5%88%86%E5%AF%BC%E6%95%B0/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="一元微分导数">一元微分导数</h1>
@@ -1753,7 +1753,7 @@ h(x)   &amp;x_0&lt;x&lt;x+\delta,
   </entry>
   <entry>
     <title>向量代数和空间解析几何</title>
-    <url>/2023/04/30/project/PEE/PEE-analysis/%E5%90%91%E9%87%8F%E4%BB%A3%E6%95%B0%E5%92%8C%E7%A9%BA%E9%97%B4%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/</url>
+    <url>/2023/05/02/project/PEE/PEE-analysis/%E5%90%91%E9%87%8F%E4%BB%A3%E6%95%B0%E5%92%8C%E7%A9%BA%E9%97%B4%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="向量代数和空间解析几何">向量代数和空间解析几何</h1>
@@ -2146,7 +2146,7 @@ z=0
   </entry>
   <entry>
     <title>多元函数积分</title>
-    <url>/2023/04/30/project/PEE/PEE-analysis/%E5%A4%9A%E5%85%83%E5%87%BD%E6%95%B0%E7%A7%AF%E5%88%86/</url>
+    <url>/2023/05/02/project/PEE/PEE-analysis/%E5%A4%9A%E5%85%83%E5%87%BD%E6%95%B0%E7%A7%AF%E5%88%86/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="多元函数积分">多元函数积分</h1>
@@ -2299,7 +2299,7 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
   </entry>
   <entry>
     <title>多元微分学</title>
-    <url>/2023/04/30/project/PEE/PEE-analysis/%E5%A4%9A%E5%85%83%E5%BE%AE%E5%88%86%E5%AD%A6/</url>
+    <url>/2023/05/02/project/PEE/PEE-analysis/%E5%A4%9A%E5%85%83%E5%BE%AE%E5%88%86%E5%AD%A6/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="多元微分学">多元微分学</h1>
@@ -2593,7 +2593,7 @@ M为曲线上一点(x_0,y_0,z_0),
   </entry>
   <entry>
     <title>多元积分的基本公式</title>
-    <url>/2023/04/30/project/PEE/PEE-analysis/%E5%A4%9A%E5%85%83%E7%A7%AF%E5%88%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%BC%8F/</url>
+    <url>/2023/05/02/project/PEE/PEE-analysis/%E5%A4%9A%E5%85%83%E7%A7%AF%E5%88%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%BC%8F/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="多元积分的基本公式">多元积分的基本公式</h1>
@@ -2691,7 +2691,7 @@ c0 110 84 276 504 276s502.4-166 502.4-276z'/></svg></span></span></span><span cl
   </entry>
   <entry>
     <title>常微分方程</title>
-    <url>/2023/04/30/project/PEE/PEE-analysis/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</url>
+    <url>/2023/05/02/project/PEE/PEE-analysis/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="常微分方程">常微分方程</h1>
@@ -2765,7 +2765,7 @@ c0 110 84 276 504 276s502.4-166 502.4-276z'/></svg></span></span></span><span cl
   </entry>
   <entry>
     <title>微分中值定理</title>
-    <url>/2023/04/30/project/PEE/PEE-analysis/%E5%BE%AE%E5%88%86%E4%B8%AD%E5%80%BC%E5%AE%9A%E7%90%86/</url>
+    <url>/2023/05/02/project/PEE/PEE-analysis/%E5%BE%AE%E5%88%86%E4%B8%AD%E5%80%BC%E5%AE%9A%E7%90%86/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="微分中值定理">微分中值定理</h1>
@@ -2848,7 +2848,7 @@ x \in (x_0-\delta,x_0)时，f^\prime(x)&lt;0
   </entry>
   <entry>
     <title>无穷级数</title>
-    <url>/2023/04/30/project/PEE/PEE-analysis/%E6%97%A0%E7%A9%B7%E7%BA%A7%E6%95%B0/</url>
+    <url>/2023/05/02/project/PEE/PEE-analysis/%E6%97%A0%E7%A9%B7%E7%BA%A7%E6%95%B0/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="无穷级数">无穷级数</h1>
@@ -3015,7 +3015,7 @@ u_n\ge u_{n+1},n\ge N \ge1,
   </entry>
   <entry>
     <title>极限、连续、求极限的方法</title>
-    <url>/2023/04/30/project/PEE/PEE-analysis/%E6%9E%81%E9%99%90%E3%80%81%E8%BF%9E%E7%BB%AD%E3%80%81%E6%B1%82%E6%9E%81%E9%99%90%E7%9A%84%E6%96%B9%E6%B3%95/</url>
+    <url>/2023/05/02/project/PEE/PEE-analysis/%E6%9E%81%E9%99%90%E3%80%81%E8%BF%9E%E7%BB%AD%E3%80%81%E6%B1%82%E6%9E%81%E9%99%90%E7%9A%84%E6%96%B9%E6%B3%95/</url>
     <content><![CDATA[<p> </p>
 <span id="more"></span>
 <h1 id="极限-连续-求极限的方法">极限、连续、求极限的方法</h1>
@@ -3155,6 +3155,86 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
       </categories>
       <tags>
         <tag>PEE-analysis</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>控制系统的数学模型</title>
+    <url>/2023/05/02/project/PEE/PEE-autocontrol/%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B/</url>
+    <content><![CDATA[<p> </p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>project</category>
+        <category>PEE</category>
+      </categories>
+      <tags>
+        <tag>autocontrol</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>自动控制一般概念</title>
+    <url>/2023/05/02/project/PEE/PEE-autocontrol/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E4%B8%80%E8%88%AC%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<p> </p>
+<span id="more"></span>
+<h1 id="自动控制的一般概念">自动控制的一般概念</h1>
+<h1 id="自动控制和自动控制系统">自动控制和自动控制系统</h1>
+<p>自动控制是指在没有人直接参与的情况下，利用外加的设备或装置使机器、设备或生产过程的某个工作状态或参数自动按照预定的规律运行。</p>
+<p>自动控制系统是将被控对象和控制装置按照一定的方式连接起来，组成一个有机总统。</p>
+<h2 id="开环控制系统">开环控制系统</h2>
+<p>最常见的控制方式有三种：开环控制、闭环控制、和复合控制。<br>
+开环控制是系统的控制作用不受输出影响的控制系统。在开环控制系统中，输入端和输出端之间，只有信号的前向通道而不存在由输出端到输入端的反馈通路。</p>
+<h2 id="闭环控制系统">闭环控制系统</h2>
+<p>由于开环控制系统精度不高和适应不强，若要提高控制精度，就必须把输出量的信息反馈到输入端。<br>
+系统的控制作用受输出量影响的控制系统称为闭环控制系统。<br>
+闭环系统的原理<strong>将系统的输出信号引回输入端，与输入信号相比较，利用所得的偏差信号对系统进行调节，达到减小偏差或消除误差的目的</strong>。</p>
+<h2 id="复合控制系统">复合控制系统</h2>
+<p>反馈控制只有在外部作用对控制对象产生影响之后才能做出相应的控制，尤其当控制对象具有较大的延迟时间，反馈控制不能即使调节输出变化，而前馈控制能及时感受信号输入。使系统在偏差产生前就纠正偏差。<br>
+将前馈控制和反馈控制结合起来就是复合控制。</p>
+<h1 id="自动控制系统的基本组成">自动控制系统的基本组成</h1>
+<p>任何一个自动控制系统都是由被控对象和控制器组成的，除了被控对象外，控制装置通常由测量元件、比较元件、放大元件、执行机构、校正元件和给定元件组成。</p>
+<ul>
+<li>被控对象：一般是生产中需要进行控制的工作机械、装置或生产过程。</li>
+<li>给定元件：主要产生给定信号或控制输入信号</li>
+<li>测量元件：用于检测被控量或输出了，产生反馈信号。</li>
+<li>比较元件：用来比较输入信号和反馈信号之间的偏差。</li>
+<li>放大元件：用来放大输入信号与反馈信号之间的偏差。</li>
+<li>执行机构：用于直接对被控对象进行操作，调节被控量。</li>
+<li>校正元件：用来改善或提高系统性能。</li>
+</ul>
+<h1 id="自动控制系统的分类">自动控制系统的分类</h1>
+<h2 id="按信号分类">按信号分类</h2>
+<p>按信号分类可分为：恒值控制系统、随动控制系统和程序控制系统。<br>
+恒值控制系统的控制输入是恒值，要求被控量保持给定值不变。<br>
+随动控制系统的控制输入是变化规律未知的时间函数，系统按头以规律变化并与输入信号的误差在规定范围内。<br>
+程序控制系统的给定信号按预先编制的程序确定，要求被控量按照相应的规律随控制信号变化。</p>
+<h2 id="按系统参数是否随时间变化分类">按系统参数是否随时间变化分类</h2>
+<p>按系统参数是否随时间变化分类可分为：定常系统和时变系统。<br>
+如果控制系统的参数在系统运行过程中不随时间变化就称为定常系统，否则称为时变系统。</p>
+<h2 id="按系统是否满足叠加原理分类">按系统是否满足叠加原理分类</h2>
+<p>按系统是否满足叠加原理分类可分为：线性系统和非线性系统。<br>
+由线性原部件组成的系统称为线性系统，线性系统的主要特点是满足叠加性和齐次性。</p>
+<h2 id="按照给部分信号分类">按照给部分信号分类</h2>
+<p>按照给部分信号分类可分为：连续系统和离散系统。<br>
+如果系统的各个部分的信号都是连续函数形式，则该系统就称为连续系统。<br>
+如果系统有一处或几处信号是离散信号（脉冲序列或数码），则称为离散系统。</p>
+<h2 id="按系统输入信号和输出信号分类">按系统输入信号和输出信号分类</h2>
+<p>按系统输入信号和输出信号分类可分为：单变量系统和多变量系统。</p>
+<h1 id="对控制系统性能的要求">对控制系统性能的要求</h1>
+<p>不同的控制对象、不同的工作方式和控制任务。对任务品质指标要求往往不相同，一般来说可归结为三个字：稳、准、快。<br>
+稳：指的是对于系统的稳定性要求。<br>
+准：指的是对系统的精准度的要求。<br>
+快：指的是对系统的响应时间的要求。</p>
+<h1 id="研究内容">研究内容</h1>
+<p>主要研究内容是系统分析和系统校正。<br>
+系统分析是建立系统数学模型研究系统性能与系统结构、参数之间的关系。<br>
+系统校正是在给出被控对象及其技术指标要求的情况下，寻求一个能完成控制要求的控制系统。</p>
+]]></content>
+      <categories>
+        <category>project</category>
+        <category>PEE</category>
+      </categories>
+      <tags>
+        <tag>autocontrol</tag>
       </tags>
   </entry>
   <entry>
