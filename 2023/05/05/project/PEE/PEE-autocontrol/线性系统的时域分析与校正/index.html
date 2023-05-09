@@ -31,7 +31,7 @@
 <meta property="og:image" content="http://example.com/2023/05/05/project/PEE/PEE-autocontrol/%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%E4%B8%8E%E6%A0%A1%E6%AD%A3/%E6%AC%A0%E9%98%BB%E5%B0%BC%E4%BA%8C%E9%98%B6%E7%B3%BB%E7%BB%9F%E9%98%B6%E8%B7%83%E5%93%8D%E5%BA%94%E5%8F%8A%E5%85%B6%E5%8C%85%E7%BB%9C%E7%BA%BF.png">
 <meta property="og:image" content="http://example.com/2023/05/05/project/PEE/PEE-autocontrol/%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%E4%B8%8E%E6%A0%A1%E6%AD%A3/%E8%B6%85%E8%B0%83%E9%87%8F%E5%92%8C%E9%98%BB%E5%B0%BC%E6%AF%94.png">
 <meta property="article:published_time" content="2023-05-05T23:15:46.000Z">
-<meta property="article:modified_time" content="2023-05-08T14:47:38.683Z">
+<meta property="article:modified_time" content="2023-05-09T01:35:21.518Z">
 <meta property="article:tag" content="autocontrol">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="http://example.com/2023/05/05/project/PEE/PEE-autocontrol/%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%E4%B8%8E%E6%A0%A1%E6%AD%A3/%E4%B8%80%E9%98%B6%E7%B3%BB%E7%BB%9F%E5%85%B8%E5%9E%8B%E7%BB%93%E6%9E%84%E5%9B%BE.png">
@@ -234,7 +234,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2023-05-08 14:47:38" itemprop="dateModified" datetime="2023-05-08T14:47:38+00:00">2023-05-08</time>
+      <time title="修改时间：2023-05-09 01:35:21" itemprop="dateModified" datetime="2023-05-09T01:35:21+00:00">2023-05-09</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -733,6 +733,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
 <img src="/2023/05/05/project/PEE/PEE-autocontrol/%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%E4%B8%8E%E6%A0%A1%E6%AD%A3/%E8%B6%85%E8%B0%83%E9%87%8F%E5%92%8C%E9%98%BB%E5%B0%BC%E6%AF%94.png" class="" title="zunibichaotl">
 <p>其代码如下：</p>
 <figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">sigma=[];t=<span class="number">0</span>:<span class="number">0.1</span>:<span class="number">50</span>;xi=<span class="number">0</span>:<span class="number">0.005</span>:<span class="number">1</span>;wn=<span class="number">5</span>;</span><br><span class="line"><span class="keyword">for</span> <span class="built_in">i</span>=<span class="number">1</span>:<span class="built_in">length</span>(xi)</span><br><span class="line">    num=wn*wn;</span><br><span class="line">    den=[<span class="number">1</span> <span class="number">2</span>*xi(<span class="built_in">i</span>)*wn num];</span><br><span class="line">    y=step(num,den,t);</span><br><span class="line">    sigma=[sigma ((<span class="built_in">max</span>(y)<span class="number">-1</span>)*<span class="number">100</span>)];</span><br><span class="line"><span class="keyword">end</span></span><br><span class="line"><span class="built_in">plot</span>(xi,sigma);</span><br><span class="line">xlabel(<span class="string">&#x27;阻尼比&#x27;</span>),ylabel(<span class="string">&#x27;超调量&#x27;</span>)</span><br><span class="line">title(<span class="string">&#x27;图5欠阻尼二阶系统阻尼比和超调量的关系曲线&#x27;</span>)</span><br></pre></td></tr></table></figure>
+<p>调节时间<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>t</mi><mi>s</mi></msub></mrow><annotation encoding="application/x-tex">t_s</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.76508em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault">t</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">s</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>，通常按阶跃响应的包络线5%误差带的时间。令</p>
 
     </div>
 
@@ -754,7 +755,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/2023/05/08/project/PEE/PEE-analysis/%E6%9E%81%E9%99%90%E3%80%81%E8%BF%9E%E7%BB%AD%E3%80%81%E6%B1%82%E6%9E%81%E9%99%90%E7%9A%84%E6%96%B9%E6%B3%95/" rel="next" title="极限、连续、求极限的方法">
+                <a href="/2023/05/09/project/PEE/PEE-analysis/%E6%9E%81%E9%99%90%E3%80%81%E8%BF%9E%E7%BB%AD%E3%80%81%E6%B1%82%E6%9E%81%E9%99%90%E7%9A%84%E6%96%B9%E6%B3%95/" rel="next" title="极限、连续、求极限的方法">
                   极限、连续、求极限的方法 <i class="fa fa-chevron-right"></i>
                 </a>
             </div>
