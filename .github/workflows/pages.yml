@@ -20,9 +20,14 @@ jobs:
         uses: actions/cache@v4
         with:
           path: node_modules
-          key: ${{ runner.OS }}-npm-cache
+#          key: ${{ runner.OS }}-npm-cache
+          key: ${{ runner.OS }}-npm-${{ hashFiles('package-lock.json') }}-force  # 添加后缀强制刷新
           restore-keys: |
             ${{ runner.OS }}-npm-cache
+# solution 
+      - name: Install OS Dependencies
+        run: sudo apt-get update && sudo apt-get install -y build-essential python3  # 补全系统依赖
+# solution
       - name: Install Dependencies
         run: npm install
       - name: Build
@@ -32,3 +37,9 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+# check
+      - name: Check Node.js Availability
+        run: |
+          echo "Node.js path: $(which node)"
+          echo "NPM path: $(which npm)"
+          npm -v  # 确认命令可达
