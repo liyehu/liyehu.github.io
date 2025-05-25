@@ -30,6 +30,12 @@ jobs:
 # solution
       - name: Install Dependencies
         run: npm install
+# check
+      - name: Debug Directory Structure
+        run: |
+          ls -al
+          ls node_modules/.bin/  # 检查关键二进制文件是否存在
+
       - name: Build
         run: npm run build
       - name: Deploy
