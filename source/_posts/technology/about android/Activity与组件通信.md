@@ -1,3 +1,13 @@
+---
+title: Activity与组件通信
+date: 2023-04-30 11:52:10
+tags: Android
+categories: 
+    - technology
+    - knowledge
+top:
+hidden:
+---
 # Android开发实战课程 - 第三周：Activity与组件通信
 
 ## 课程大纲：第三周 Activity与组件通信
