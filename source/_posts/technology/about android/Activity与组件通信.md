@@ -1,6 +1,6 @@
 ---
 title: Activity与组件通信
-date: 2023-04-30 11:52:10
+date: 2025-04-30 11:52:10
 tags: Android
 categories: 
     - technology
